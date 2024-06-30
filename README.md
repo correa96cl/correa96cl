@@ -27,6 +27,10 @@
 <img align="center" height="35" width="35" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/a7f2e758-386a-4cb0-962d-d123757a21b7" />
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=correa96cl&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=correa96cl&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=correa96cl&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 **correa96cl/correa96cl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
