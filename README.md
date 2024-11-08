@@ -11,7 +11,7 @@ I'm a FullStack Developer with 14 years of experience, currently based in Brazil
 **Technical Skills**
 
 * **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Vue.js, Angular.js
-* **Backend:** Java, Node.js, Express.js, Python, C#
+* **Backend:** Java, Node.js, Express.js, Python, C#, PHP
 * **Databases:** MySQL, PostgreSQL, Oracle
 * **Mobile:** React Native, Flutter
 * **Version Control:** Git, SVN
